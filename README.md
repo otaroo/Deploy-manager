@@ -1,2 +1,2 @@
 # Deploy-manager
-สำหรับ Deploy Projeect
+สำหรับจดบันทึกการ Deploy Projeect
